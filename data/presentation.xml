@@ -1,0 +1,465 @@
+<?xml version="1.0"?>
+<presentation title="ORIENTACION_ESCALAFONARIA" width="1280.0000000" height="850.0000000" thmbWidth="0.0000000" thmbHeight="0.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{02F686B4-CA31-46FA-B27A-1677BD9FE464}">
+	<presenters/>
+	<references/>
+	<soundAssets/>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets/>
+	<playlists/>
+	<narration/>
+	<settings>
+		<navigation>
+			<keyboard enabled="0">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="0" target="step"/>
+			<gesture zoom="0"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#B33232</color>
+				<color id="button.face.over">#D33B3B</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#B33232</color>
+				<color id="listItem.face.over">#FFDFD3</color>
+				<color id="listItem.face.pressed">#5F5F5F</color>
+				<color id="listItem.label.over">#2A2A2A</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#2A2A2A</color>
+				<color id="page.background">#484D52</color>
+				<color id="panel.background">#303030</color>
+				<color id="panel.text">#FFFFFF</color>
+				<color id="player.background">#838689</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#525252</color>
+				<color id="progress.loading">#FFFFFF</color>
+				<color id="progress.playback">#D33B3B</color>
+				<color id="text">#2A2A2A</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>false</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>false</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>false</visible>
+				<buttons>
+					<button type="attachments" visible="true"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>false</numberEntries>
+				<highlightViewedEntries>false</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>false</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>false</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>true</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="never"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="" titleNormalized="" src="slide1.swf" size="511048" advanceOnTime="0" framesCount="111" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="110" playTime="4.5833333" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>ORIENTACIÓN
+ESCALAFONARIA</text>
+		</slide>
+		<slide index="1" title="" titleNormalized="" src="slide2.swf" size="91431" advanceOnTime="0" framesCount="1449" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos>
+				<video id="video0" videoClipId="ispring.resources_2e044f00.spr0_692757773" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_2e044f00.spr2_692757773" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="PushUp" duration="1.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="53" videoId="video0" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="1448" playTime="60.3333333" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="2" title="" titleNormalized="" src="slide3.swf" size="720443" advanceOnTime="0" framesCount="116" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="WipeLeft" duration="1.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="115" playTime="4.7916667" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Objetivo 
+de aprendizaje
+Al término de estas cápsulas identificarás las características y actividades a realizar en cada uno de los Sectores que conforman el Escalafón de la Rama Administrativa, así como cual es más compatible con tus habilidades, conocimientos, actitudes e intereses.</text>
+		</slide>
+		<slide index="3" title="" titleNormalized="" src="slide4.swf" size="281511" advanceOnTime="0" framesCount="111" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="PushUp" duration="1.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="110" playTime="4.5833333" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Esquema de Sectores
+Aquí te mostramos la estructura de la rama Administrativa con sus Sectores y Subsectores a los que puedes elegir.
+Rama
+1er.
+Rama
+2do.
+Sectores</text>
+		</slide>
+		<slide index="4" title="" titleNormalized="" src="slide5.swf" size="1412092" advanceOnTime="0" framesCount="150" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="PushUp" duration="1.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="149" playTime="6.2083333" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Menú
+Selecciona un Sector para conocerlo.</text>
+		</slide>
+		<slide index="5" title="" titleNormalized="" src="slide6.swf" size="321371" advanceOnTime="0" framesCount="66" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="ConveyorLeft" duration="1.6000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="65" playTime="2.7083333" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>SECTOR DE
+ALMACÉN</text>
+		</slide>
+		<slide index="6" title="" titleNormalized="" src="slide7.swf" size="13864" advanceOnTime="0" framesCount="4529" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos>
+				<video id="video1" videoClipId="ispring.resources_2e123710.spr0_692968858" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_2e123710.spr2_692968858" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="FerrisWheelRight" duration="2.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="60" videoId="video1" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="4528" playTime="188.6666667" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="7" title="" titleNormalized="" src="slide8.swf" size="311149" advanceOnTime="0" framesCount="71" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="ConveyorLeft" duration="1.6000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="70" playTime="2.9166667" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>SECTOR DE
+TESORERÍA</text>
+		</slide>
+		<slide index="8" title="" titleNormalized="" src="slide9.swf" size="14257" advanceOnTime="0" framesCount="7312" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos>
+				<video id="video2" videoClipId="ispring.resources_d36ff50.spr0_693305134" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_d36ff50.spr2_693305134" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="FerrisWheelRight" duration="2.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="55" videoId="video2" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="7311" playTime="304.6250000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="9" title="" titleNormalized="" src="slide10.swf" size="390748" advanceOnTime="0" framesCount="78" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="ConveyorLeft" duration="1.6000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="77" playTime="3.2083333" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>SECTOR DE SERVICIOS 
+TÉCNICOS</text>
+		</slide>
+		<slide index="10" title="" titleNormalized="" src="slide11.swf" size="16939" advanceOnTime="0" framesCount="8867" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos>
+				<video id="video3" videoClipId="ispring.resources_2e76d858.spr0_693742608" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_2e76d858.spr2_693742608" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="FerrisWheelRight" duration="2.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="36" videoId="video3" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="8866" playTime="369.4166667" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="11" title="" titleNormalized="" src="slide12.swf" size="415499" advanceOnTime="0" framesCount="71" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="ConveyorLeft" duration="1.6000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="70" playTime="2.9166667" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>SECTOR DE SERVICIOS ADMINISTRATIVOS</text>
+		</slide>
+		<slide index="12" title="" titleNormalized="" src="slide13.swf" size="19667" advanceOnTime="0" framesCount="14938" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos>
+				<video id="video4" videoClipId="ispring.resources_2e7e23e8.spr0_694501818" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_2e7e23e8.spr2_694501818" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="FerrisWheelRight" duration="2.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="65" videoId="video4" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="14937" playTime="622.3750000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="13" title="" titleNormalized="" src="slide14.swf" size="280299" advanceOnTime="0" framesCount="73" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="ConveyorLeft" duration="1.6000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="72" playTime="3.0000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>SECTOR DE SERVICIOS 
+DE PERSONAL</text>
+		</slide>
+		<slide index="14" title="" titleNormalized="" src="slide15.swf" size="17937" advanceOnTime="0" framesCount="10339" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos>
+				<video id="video5" videoClipId="ispring.resources_2e73a150.spr0_694988213" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_2e73a150.spr2_694988213" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="FerrisWheelRight" duration="2.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="34" videoId="video5" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="10338" playTime="430.7500000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="15" title="" titleNormalized="" src="slide16.swf" size="388575" advanceOnTime="0" framesCount="75" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="ConveyorLeft" duration="1.6000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="74" playTime="3.0833333" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>SECTOR DE SERVICIOS 
+DE ESTADÍSTICA</text>
+		</slide>
+		<slide index="16" title="" titleNormalized="" src="slide17.swf" size="14053" advanceOnTime="0" framesCount="4160" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos>
+				<video id="video6" videoClipId="ispring.resources_2e1c7790.spr0_695225085" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_2e1c7790.spr2_695225085" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="FerrisWheelRight" duration="2.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="31" videoId="video6" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="4159" playTime="173.2916667" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="17" title="" titleNormalized="" src="slide18.swf" size="106713" advanceOnTime="0" framesCount="1764" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos>
+				<video id="video7" videoClipId="ispring.resources_2e1c9790.spr0_695297891" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_2e1c9790.spr2_695297891" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="PushUp" duration="1.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="77" videoId="video7" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="1763" playTime="73.4583333" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="18" title="" titleNormalized="" src="slide19.swf" size="14243" advanceOnTime="0" framesCount="150" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="WindowVertical" duration="1.5000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="149" playTime="6.2083333" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>SOMOS IMSS, 
+BIENESTAR PARA TODA LA VIDA
+Espera las próximas convocatorias.</text>
+		</slide>
+		<slide index="19" title="" titleNormalized="" src="slide20.swf" size="464077" advanceOnTime="0" framesCount="56" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="PushUp" duration="1.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="55" playTime="2.2916667" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Has concluido las cápsulas.
+
+Por favor dirígete al apartado Cuestionario de Orientación
+y contesta cada pregunta de acuerdo a tus intereses o habilidades, recuerda que los resultados solo son orientativos.
+¡Felicidades!</text>
+		</slide>
+	</slides>
+</presentation>
